@@ -17,7 +17,7 @@ export default {
             this.nome = 'Marcelo'
         }, 1000);
     },
-    mounted() {
+    mountedgit() {
         setTimeout(() => {
             this.nome = 'Garcia'
         }, 2000);
