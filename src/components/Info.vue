@@ -1,9 +1,8 @@
 <template>
     <div>
-        <p>Trabalho no FFID, aprendendo a desenvolver</p>
-        <p>No momento estou estudando as seguintes tecnologias:</p>
+        <p>No trabalho utilizo as seguintes tecnologias:</p>
         <ul>
-            <li>VU JS</li>
+            <li>VUEjs</li>
             <li>Java Script</li>
             <li>HTML</li>
         </ul>
@@ -11,6 +10,6 @@
 </template>
 <script>
 export default {
-    name: 'info'
+    nome: 'Info'
 }
 </script>

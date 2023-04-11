@@ -2,7 +2,7 @@
   <primeiro-componente/>
   <life-cycle/>
   <pessoa/>
-  <form/>
+  <Form/>
 </template>
 <script>
 import PrimeiroComponente from './components/PrimeiroComponente.vue';
@@ -15,7 +15,7 @@ export default {
     PrimeiroComponente,
     LifeCycle,
     Pessoa,
-    Form
+    Form,
   }
 }
 </script>
