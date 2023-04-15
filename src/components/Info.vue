@@ -1,6 +1,7 @@
 <template>
     <div>
         <h2>Aprendendo Vue js</h2>
+        <h3>Vu js</h3>
         <p>No trabalho utilizo as seguintes tecnologias:</p>
         <p v-if="esta_trabalhando" > Estou trabalhando no momento</p>
         <p v-else>Preciso me recolocar no mercado</p>
